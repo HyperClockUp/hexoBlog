@@ -2,27 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://120.79.138.49/2020/04/23/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0-1/</loc>
-    
-    <lastmod>2020-04-22T18:26:13.065Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://120.79.138.49/2020/04/21/hello-world/</loc>
-    
-    <lastmod>2020-04-22T18:15:01.807Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://120.79.138.49/2020/04/22/HelloWorld/</loc>
-    
-    <lastmod>2020-04-22T18:14:01.783Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://120.79.138.49/tags/index.html</loc>
     
     <lastmod>2020-04-22T16:11:27.532Z</lastmod>
@@ -33,13 +12,6 @@
     <loc>http://120.79.138.49/categories/index.html</loc>
     
     <lastmod>2020-04-22T16:11:05.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://120.79.138.49/2020/04/22/myFirstPage/</loc>
-    
-    <lastmod>2020-04-22T15:43:02.957Z</lastmod>
     
   </url>
   
