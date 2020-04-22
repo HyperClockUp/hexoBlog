@@ -3,11 +3,11 @@
   <title>Coding &amp;&amp; Living</title>
   
   <subtitle>I&#39;m always learning</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://120.79.138.49/blog/"/>
+  <link href="http://120.79.138.49/"/>
   <updated>2020-04-21T11:40:29.979Z</updated>
-  <id>http://120.79.138.49/blog/</id>
+  <id>http://120.79.138.49/</id>
   
   <author>
     <name>Cheng Feixiang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://120.79.138.49/blog/2020/04/21/hello-world/"/>
-    <id>http://120.79.138.49/blog/2020/04/21/hello-world/</id>
+    <link href="http://120.79.138.49/2020/04/21/hello-world/"/>
+    <id>http://120.79.138.49/2020/04/21/hello-world/</id>
     <published>2020-04-21T11:40:29.979Z</published>
     <updated>2020-04-21T11:40:29.979Z</updated>
     
