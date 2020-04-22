@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Coding &amp;&amp; Living</title>
   
-  
+  <subtitle>I&#39;m always learning</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.chengfeixiang.cn/"/>
