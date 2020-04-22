@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://120.79.138.49/"/>
-  <updated>2020-04-22T14:59:44.663Z</updated>
+  <updated>2020-04-22T15:43:02.957Z</updated>
   <id>http://120.79.138.49/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://120.79.138.49/2020/04/22/myFirstPage/"/>
     <id>http://120.79.138.49/2020/04/22/myFirstPage/</id>
     <published>2020-04-22T14:54:58.000Z</published>
-    <updated>2020-04-22T14:59:44.663Z</updated>
+    <updated>2020-04-22T15:43:02.957Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to my Page</p>]]></content>
     
@@ -39,7 +39,7 @@
     
       <category term="Fuck" scheme="http://120.79.138.49/tags/Fuck/"/>
     
-      <category term="Yes" scheme="http://120.79.138.49/tags/Yes/"/>
+      <category term="Test" scheme="http://120.79.138.49/tags/Test/"/>
     
   </entry>
   
