@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://120.79.138.49/"/>
-  <updated>2020-04-22T15:55:56.776Z</updated>
+  <updated>2020-04-22T18:08:51.662Z</updated>
   <id>http://120.79.138.49/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>test</title>
-    <link href="http://120.79.138.49/2020/04/22/test/"/>
-    <id>http://120.79.138.49/2020/04/22/test/</id>
-    <published>2020-04-22T15:54:19.000Z</published>
-    <updated>2020-04-22T15:55:56.776Z</updated>
+    <link href="http://120.79.138.49/2020/04/22/HelloWorld/"/>
+    <id>http://120.79.138.49/2020/04/22/HelloWorld/</id>
+    <published>2020-04-22T15:54:00.000Z</published>
+    <updated>2020-04-22T18:08:51.662Z</updated>
     
-    <content type="html"><![CDATA[<p>这是测试文章</p>]]></content>
+    <content type="html"><![CDATA[<p>WTF</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是测试文章&lt;/p&gt;
+        &lt;p&gt;WTF&lt;/p&gt;
 
       
     
@@ -39,7 +39,9 @@
       <category term="Web前端" scheme="http://120.79.138.49/categories/Web%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Hexo" scheme="http://120.79.138.49/tags/Hexo/"/>
+      <category term="Test" scheme="http://120.79.138.49/tags/Test/"/>
+    
+      <category term="NewTest" scheme="http://120.79.138.49/tags/NewTest/"/>
     
   </entry>
   
@@ -64,9 +66,9 @@
     
     
     
-      <category term="Fuck" scheme="http://120.79.138.49/tags/Fuck/"/>
-    
       <category term="Test" scheme="http://120.79.138.49/tags/Test/"/>
+    
+      <category term="Fuck" scheme="http://120.79.138.49/tags/Fuck/"/>
     
   </entry>
   
