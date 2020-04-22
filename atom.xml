@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://120.79.138.49/"/>
-  <updated>2020-04-21T11:40:29.979Z</updated>
+  <updated>2020-04-22T14:59:44.663Z</updated>
   <id>http://120.79.138.49/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myFirstPage</title>
+    <link href="http://120.79.138.49/2020/04/22/myFirstPage/"/>
+    <id>http://120.79.138.49/2020/04/22/myFirstPage/</id>
+    <published>2020-04-22T14:54:58.000Z</published>
+    <updated>2020-04-22T14:59:44.663Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my Page</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to my Page&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Fuck" scheme="http://120.79.138.49/tags/Fuck/"/>
+    
+      <category term="Yes" scheme="http://120.79.138.49/tags/Yes/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
