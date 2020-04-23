@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://120.79.138.49/"/>
-  <updated>2020-04-23T13:23:15.607Z</updated>
+  <updated>2020-04-23T13:29:03.844Z</updated>
   <id>http://120.79.138.49/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>近期要做的一些事情</title>
+    <link href="http://120.79.138.49/2020/04/23/%E8%BF%91%E6%9C%9F%E8%A6%81%E5%81%9A%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E6%83%85/"/>
+    <id>http://120.79.138.49/2020/04/23/%E8%BF%91%E6%9C%9F%E8%A6%81%E5%81%9A%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E6%83%85/</id>
+    <published>2020-04-23T13:25:00.000Z</published>
+    <updated>2020-04-23T13:29:03.844Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><input disabled="" type="checkbox"> 深入了解Vue2源码</li><li><input disabled="" type="checkbox"> 上手Vue3</li><li><input disabled="" type="checkbox"> 深入了解React源码</li><li><input disabled="" type="checkbox"> 了解React Hook</li><li><input disabled="" type="checkbox"> 《计算机组成原理》</li><li><input disabled="" type="checkbox"> 《Javascript设计模式》</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; 深入了解Vue2源码&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; 上手Vue3&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://120.79.138.49/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>使用Hexo搭建博客</title>
