@@ -177,14 +177,20 @@
 <li><code>XFTP</code>、<code>XShell</code> 等可进行远程服务器操作的软件</li>
 <li><code>github</code> 账号</li>
 </ol>
-<h2 id="开始部署"><a href="#开始部署" class="headerlink" title="开始部署"></a>开始部署</h2><h4 id="环境部署"><a href="#环境部署" class="headerlink" title="环境部署"></a>环境部署</h4><p>1.<code>NodeJs</code>安装</p>
+<h2 id="开始部署"><a href="#开始部署" class="headerlink" title="开始部署"></a>开始部署</h2><p>1.<code>NodeJs</code>安装</p>
 <p> 本文不做详细解释，可参考<a href="https://www.jianshu.com/p/fb950c4ddd50" target="_blank" rel="noopener">https://www.jianshu.com/p/fb950c4ddd50</a></p>
 <p>2.<code>Git</code>安装</p>
 <p> 参考<a href="https://blog.csdn.net/hdn_kb/article/details/90696500" target="_blank" rel="noopener">https://blog.csdn.net/hdn_kb/article/details/90696500</a></p>
-<p>3.<code>Hexo</code>安装</p>
+<p>3.<code>Hexo</code> 安装</p>
 <p> 输入以下命令安装全局hexo脚手架</p>
- <figure class="highlight plain"><figcaption><span>install hexo-cli -g ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"> </span><br><span class="line"> 然后使用&#96;&#96;&#96;hexo init&#96;&#96;&#96;创建一个初始化hexo模板，&#96;&#96;&#96;npm install&#96;&#96;&#96;安装依赖</span><br><span class="line"> </span><br><span class="line">4.主题下载和应用</span><br><span class="line"></span><br><span class="line">可以去github上搜索，也可以直接去[hexo主题站](https:&#x2F;&#x2F;hexo.io&#x2F;themes&#x2F;)选择一个合适的主题我选择的是[yilia主题](https:&#x2F;&#x2F;github.com&#x2F;litten&#x2F;hexo-theme-yilia)，使用&#96;&#96;&#96;git clone XXXXXXXX theme&#x2F;主题名&#96;&#96;&#96;将主题包下载至本地。</span><br><span class="line"></span><br><span class="line">使用&#96;&#96;&#96;vim&#96;&#96;&#96;或者&#96;&#96;&#96;vi&#96;&#96;&#96;修改&#96;&#96;&#96;hexo&#96;&#96;&#96;根目录下的&#96;&#96;&#96;_config.yml&#96;&#96;&#96;文件中的&#96;&#96;&#96;theme&#96;&#96;&#96;字段为对应的主题名，再根据实际需要配置&#96;&#96;&#96;theme_config&#96;&#96;&#96;字段即可完成主题的基本应用。</span><br><span class="line"></span><br><span class="line">5.启动&#96;&#96;&#96;Hexo</span><br></pre></td></tr></table></figure>
+ <figure class="highlight plain"><figcaption><span>install hexo-cli -g```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">然后使用</span><br><span class="line"></span><br><span class="line">&#96;&#96;&#96;hexo init</span><br></pre></td></tr></table></figure>
 
+<p> 创建一个初始化hexo模板，再使用</p>
+ <figure class="highlight plain"><figcaption><span>install```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"> </span><br><span class="line"> 安装依赖</span><br><span class="line"> </span><br><span class="line">4.主题下载和应用</span><br><span class="line"></span><br><span class="line">可以去github上搜索，也可以直接去[hexo主题站](https:&#x2F;&#x2F;hexo.io&#x2F;themes&#x2F;)选择一个合适的主题我选择的是[yilia主题](https:&#x2F;&#x2F;github.com&#x2F;litten&#x2F;hexo-theme-yilia)，使用</span><br><span class="line"></span><br><span class="line">&#96;&#96;&#96;git clone XXXXXXXX theme&#x2F;主题名</span><br></pre></td></tr></table></figure>
+
+<p>将主题包下载至本地。</p>
+<p>使用<code>vim</code>或者<code>vi</code>修改<code>hexo</code>根目录下的<code>_config.yml</code>文件中的<code>theme</code>字段为对应的主题名，再根据实际需要配置<code>theme_config</code>字段即可完成主题的基本应用。</p>
+<p>5.启动<code>Hexo</code></p>
 <ul>
 <li><p>静态部署</p>
 <p>1) 使用<code>hexo clean</code>清除缓存</p>
