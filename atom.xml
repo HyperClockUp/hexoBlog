@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Coding, Living</title>
+  
+  <subtitle>I&#39;m always learning</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://120.79.138.49/"/>
+  <updated>2020-04-23T09:42:02.190Z</updated>
+  <id>http://120.79.138.49/</id>
+  
+  <author>
+    <name>Cheng Feixiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo搭建博客</title>
+    <link href="http://120.79.138.49/2020/04/23/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://120.79.138.49/2020/04/23/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-04-23T09:27:38.000Z</published>
+    <updated>2020-04-23T09:42:02.190Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol><li>服务器一台（本博客使用阿里云的轻量级应用服务器CentOS）</li><li><code>XFTP</code>、<code>XShell</code> 等可进行远程服务器操作的软件</li><li><code>github</code> 账号</li></ol><h2 id="开始部署"><a href="#开始部署" class="headerlink" title="开始部署"></a>开始部署</h2><h4 id="环境部署"><a href="#环境部署" class="headerlink" title="环境部署"></a>环境部署</h4><ol><li><p><code>NodeJs</code>安装</p><p>本文不做详细解释，可参考<a href="https://www.jianshu.com/p/fb950c4ddd50" target="_blank" rel="noopener">https://www.jianshu.com/p/fb950c4ddd50</a></p></li><li><p><code>Git</code>安装</p><p>参考<a href="https://blog.csdn.net/hdn_kb/article/details/90696500" target="_blank" rel="noopener">https://blog.csdn.net/hdn_kb/article/details/90696500</a></p></li><li><p><code>Hexo</code>安装</p><p>输入以下命令安装全局hexo脚手架<br><code>npm install hexo-cli -g</code><br>另外</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;服务器一台（本博客使用阿里云的轻量级应用服务器CentOS）&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;XFTP&lt;/code
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
