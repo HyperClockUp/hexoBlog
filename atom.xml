@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://120.79.138.49/"/>
-  <updated>2020-06-01T08:30:02.859Z</updated>
+  <updated>2020-06-24T15:33:18.978Z</updated>
   <id>http://120.79.138.49/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杂谈</title>
+    <link href="http://120.79.138.49/2020/06/24/%E6%9D%82%E8%B0%88/"/>
+    <id>http://120.79.138.49/2020/06/24/%E6%9D%82%E8%B0%88/</id>
+    <published>2020-06-24T15:32:00.000Z</published>
+    <updated>2020-06-24T15:33:18.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前的七牛云图床，没绑定域名过期了，现在重新绑定了一下，图都回来了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前的七牛云图床，没绑定域名过期了，现在重新绑定了一下，图都回来了&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>工作记录 （一）</title>
